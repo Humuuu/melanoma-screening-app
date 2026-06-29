@@ -1,0 +1,12 @@
+venv/
+env/
+
+__pycache__/
+*.pyc
+
+dataset/
+images/
+*.jpg
+*.png
+
+.DS_Store
